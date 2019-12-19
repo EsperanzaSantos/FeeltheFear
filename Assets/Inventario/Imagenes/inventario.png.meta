@@ -1,0 +1,1288 @@
+fileFormatVersion: 2
+guid: 4d754d3519765c740ad4aa40dda69466
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9058130474352158333
+    second: inventario_0
+  - first:
+      213: -1017426691601808959
+    second: inventario_1
+  - first:
+      213: 5495191999684348187
+    second: inventario_2
+  - first:
+      213: 4533114252553636976
+    second: inventario_3
+  - first:
+      213: -3806224522878350983
+    second: inventario_4
+  - first:
+      213: -1485158812214159503
+    second: inventario_5
+  - first:
+      213: -7822612431399910846
+    second: inventario_6
+  - first:
+      213: 7396154232010783696
+    second: inventario_7
+  - first:
+      213: -1847274977039422875
+    second: inventario_8
+  - first:
+      213: -8110113960315867071
+    second: inventario_9
+  - first:
+      213: 8071586354988250869
+    second: inventario_10
+  - first:
+      213: 5984485555502936357
+    second: inventario_11
+  - first:
+      213: 4892908583358873287
+    second: inventario_12
+  - first:
+      213: -4063381315471043423
+    second: inventario_13
+  - first:
+      213: 314069303832198656
+    second: inventario_14
+  - first:
+      213: 4666677270702556797
+    second: inventario_15
+  - first:
+      213: 6342182625726865678
+    second: inventario_16
+  - first:
+      213: -6461826793569613605
+    second: inventario_17
+  - first:
+      213: -8455194698408546323
+    second: inventario_18
+  - first:
+      213: 6475179486958111437
+    second: inventario_19
+  - first:
+      213: -5974335532000304338
+    second: inventario_20
+  - first:
+      213: -7824611429027454116
+    second: inventario_21
+  - first:
+      213: 2392904345970606063
+    second: inventario_22
+  - first:
+      213: -7082966984561771768
+    second: inventario_23
+  - first:
+      213: 1570178831084500710
+    second: inventario_24
+  - first:
+      213: 4554766328966312350
+    second: inventario_25
+  - first:
+      213: -265230265987312886
+    second: inventario_26
+  - first:
+      213: 7200162621389608857
+    second: inventario_27
+  - first:
+      213: -7438596618117978483
+    second: inventario_28
+  - first:
+      213: -4382171270837163474
+    second: inventario_29
+  - first:
+      213: -1791680570142558745
+    second: inventario_30
+  - first:
+      213: -7813344708717290360
+    second: inventario_31
+  - first:
+      213: 5672269253250547247
+    second: inventario_32
+  - first:
+      213: 8466240054626841488
+    second: inventario_33
+  - first:
+      213: 884941162507029835
+    second: inventario_34
+  - first:
+      213: -3337436965112507465
+    second: inventario_35
+  - first:
+      213: 8079879694510792081
+    second: inventario_36
+  - first:
+      213: -5884717461036194075
+    second: inventario_37
+  - first:
+      213: 1383710095635791105
+    second: inventario_38
+  - first:
+      213: 6599421597782477051
+    second: inventario_39
+  - first:
+      213: -5902505991960745572
+    second: inventario_40
+  - first:
+      213: -1089501459970211745
+    second: inventario_41
+  - first:
+      213: -4286371116577160135
+    second: inventario_42
+  - first:
+      213: -8837278560265363411
+    second: inventario_43
+  - first:
+      213: 3342089594468014996
+    second: inventario_44
+  - first:
+      213: -1871123220496755345
+    second: inventario_45
+  - first:
+      213: -3749741456287727909
+    second: inventario_46
+  - first:
+      213: -2978766671042718058
+    second: inventario_47
+  - first:
+      213: -8506416047781160957
+    second: inventario_48
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: inventario_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e72e5ed74ca2b4dbbd24aa78790c84
+      internalID: 9058130474352158333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 438
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673fe23b6de529b4eaaad297763adec7
+      internalID: -1017426691601808959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 438
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c153828c4534fa4992f40a16b4e8d63
+      internalID: 5495191999684348187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 438
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccd72bcf0d278147b915568db73145b
+      internalID: 4533114252553636976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 438
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170ab46a0fbcfd24abecd75070198e86
+      internalID: -3806224522878350983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_5
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 438
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036cb575219529d4d92e26a3434c4027
+      internalID: -1485158812214159503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_6
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 438
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163c1f33bc261b9449462ace0f249751
+      internalID: -7822612431399910846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7e0b6b8dd11fb4ba1c6d9a9bf26919
+      internalID: 7396154232010783696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 365
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ed197772987b5428cb2ddbbb3b343c
+      internalID: -1847274977039422875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_9
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 365
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a33d1d8be3fed448a6611adcd3b8da1
+      internalID: -8110113960315867071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 365
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbad4af5aa597b4ba40bbb3b752833f
+      internalID: 8071586354988250869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_11
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 365
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecccbbc67b01d814698491f496409f22
+      internalID: 5984485555502936357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_12
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 365
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaccf42a878c7eb4b8cf8088c10ba712
+      internalID: 4892908583358873287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_13
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 365
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bbc89b0ae856b41b4a0181492d103d
+      internalID: -4063381315471043423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191f4d6cf793cb14db6146bf72e5656b
+      internalID: 314069303832198656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 292
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0b85417cc6a5449847431c1ac60a3a
+      internalID: 4666677270702556797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_16
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 292
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc00a814921bee4c8f7b7e3b8d4e9ae
+      internalID: 6342182625726865678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_17
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 292
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12df297606eeb6e48b26dcc859d9f2a6
+      internalID: -6461826793569613605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_18
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 292
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5721a886f65ad6240aa83ec3f9bf67a8
+      internalID: -8455194698408546323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_19
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 292
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4ee7fb6931def4daee9421acb3f14d
+      internalID: 6475179486958111437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_20
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 292
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683355a9b814b50459f18b93407a7ab0
+      internalID: -5974335532000304338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c975b36097402f41923effa91959f30
+      internalID: -7824611429027454116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_22
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 219
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a3342bd7d4bf342828de13b2139317
+      internalID: 2392904345970606063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_23
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 219
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f8e49ed2fb0e743ac723939977a59d
+      internalID: -7082966984561771768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_24
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 219
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e747ebce822787e43a846b104d816e4a
+      internalID: 1570178831084500710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_25
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 219
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a854db0445b32f4a928966edda115d7
+      internalID: 4554766328966312350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_26
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 219
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7af030a79ba1344966ee8ee888c810
+      internalID: -265230265987312886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_27
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 219
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4cb247663782b4d90b4043d7f73226
+      internalID: 7200162621389608857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8b76ad32ad6f8488e1bd2469d0b91f
+      internalID: -7438596618117978483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_29
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 146
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1576dfd7fe27cfa4a8670a8a83893b05
+      internalID: -4382171270837163474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_30
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 146
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b24a5982e90ea49aa245086e01b9e9
+      internalID: -1791680570142558745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_31
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 146
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8ed5c8c04502442a9f13041eca1a6e
+      internalID: -7813344708717290360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_32
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 146
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45896365b128975498e20ad29d57f2bd
+      internalID: 5672269253250547247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_33
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 146
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f332fc6ca65144aadc407a8391b60d
+      internalID: 8466240054626841488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_34
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 146
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78be0baca08bc542806593a2b3d788e
+      internalID: 884941162507029835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea225369c897bfc4d9dcef948212baa2
+      internalID: -3337436965112507465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_36
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 73
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35322b3eb7835b74b8823c1dea397c37
+      internalID: 8079879694510792081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_37
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 73
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1556b2d687949f40998d06f5306d452
+      internalID: -5884717461036194075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 73
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101e9e352c70f084a865a0214301b8b6
+      internalID: 1383710095635791105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_39
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 73
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15385a4117219f040b13aae9f2098d45
+      internalID: 6599421597782477051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_40
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 73
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285f6d9117cdb9f40a1f52dd5f8708e1
+      internalID: -5902505991960745572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_41
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 73
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755b1ebd37cedc041a148e512a1590c9
+      internalID: -1089501459970211745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b3d5762f48ce94dbbfe394cfccb864
+      internalID: -4286371116577160135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_43
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d937f7061bb550488bc084879c9be70
+      internalID: -8837278560265363411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_44
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76a53cc228642d4cb4a49ec73f2425e
+      internalID: 3342089594468014996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_45
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea6b8505ab86594fbeb1aff4b5b2b44
+      internalID: -1871123220496755345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_46
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fbc272c5b271c4ca7f3e58c4dc710f
+      internalID: -3749741456287727909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_47
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 0
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a134aef026fdd84696f2d60e86a0d5f
+      internalID: -2978766671042718058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventario_48
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bd0a02f8afb4d48b17e4fbc79567da
+      internalID: -8506416047781160957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c4499439261600f459b7c6240ef3deda
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

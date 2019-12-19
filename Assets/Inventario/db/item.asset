@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47fd5644d9779824b91bbb5f768f6c16, type: 3}
+  m_Name: item
+  m_EditorClassIdentifier: 
+  db:
+  - nombre: Spray
+    sprite: {fileID: 6342182625726865678, guid: 4d754d3519765c740ad4aa40dda69466,
+      type: 3}
+    caracteristicas: 
+    uso: 0
+    funcion: Spray
+  - nombre: Llave
+    sprite: {fileID: -7813344708717290360, guid: 4d754d3519765c740ad4aa40dda69466,
+      type: 3}
+    caracteristicas: Llave2
+    uso: 0
+    funcion: 

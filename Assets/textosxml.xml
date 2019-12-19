@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Languages>
+          <Idiomas>
+           <Idioma name="Español">
+           <Jugar>Jugar</Jugar>
+           <Opciones>Opciones</Opciones>
+           <Salir>Salir</Salir>
+           </Idioma>
+           <Idioma name="Ingles">
+           <Jugar>Play</Jugar>
+           <Opciones>Options</Opciones>
+           <Salir>Exit</Salir>
+           </Idioma>
+           <Idioma name="Frances">
+             <Jugar>Jouer</Jugar>
+             <Salir>Sortir</Salir>
+             <Opciones>Les options</Opciones>
+           </Idioma>
+           <Idioma name="Japones">
+             <Jugar>遊ぶ</Jugar>
+             <Salir>出口</Salir>
+             <Opciones>オプション</Opciones>
+           </Idioma>
+          </Idiomas>
+</Languages>   
